@@ -1,7 +1,7 @@
 {
     "name": "@resolute/multipart-fields",
     "version": "1.0.1",
-    "description": "Build process",
+    "description": "Fastify hook decorator to handle Multipart Fields",
     "main": "lib",
     "types": "lib",
     "scripts": {
